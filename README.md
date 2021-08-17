@@ -13,5 +13,4 @@
 
 ### 👨🏻‍💻 things i am learning
 
-<img src="images/typescript.svg" width="80">
-<img src="images/node-js.svg" width="80">
+<img src="images/typescript.svg" width="80"> <img src="images/node-js.svg" width="80">
