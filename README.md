@@ -9,4 +9,4 @@
 
 ### 👨🏻‍💻 My stack and tools
 
-![](images/javascript.png)
+<img src="images/javascript.png" width="100">
