@@ -1,4 +1,4 @@
-### Hello world! 👋
+<img src="images/hello.png">
 
 **My name is Vlasenko Elena and I'm from Ukraine**
 
@@ -13,5 +13,4 @@
 
 ### 👨🏻‍💻 things i am learning
 
-<img src="images/typescript.svg" width="80">
-<img src="images/node-js.svg" width="80">
+<img src="images/typescript.svg" width="80"> <img src="images/node-js.svg" width="80">
