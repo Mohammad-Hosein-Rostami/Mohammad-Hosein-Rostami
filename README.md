@@ -1,4 +1,4 @@
-<img src="images/hello.png">
+<img src="images/hello.jpeg">
 
 **My name is Vlasenko Elena and I'm from Ukraine**
 
