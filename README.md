@@ -1,4 +1,4 @@
-<img src="images/hello.png">
+<img src="images/hello.jpeg">
 
 **My name is Vlasenko Elena and I'm from Ukraine**
 
@@ -11,6 +11,6 @@
 
 <img src="images/javascript.png" width="80"> <img src="images/react.png" width="80"> <img src="images/html.png" width="80"> <img src="images/css.png" width="80"> <img src="images/sass.png" width="80"> <img src="images/webpack.png" width="90"> <img src="images/git.png" width="90"> <img src="images/visual-studio-code.png" width="60">
 
-### 👨🏻‍💻 things i am learning
+### 👨🏻‍💻 Things I am learning
 
 <img src="images/typescript.svg" width="80"> <img src="images/node-js.svg" width="80">
