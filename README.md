@@ -9,7 +9,7 @@
 
 ### 👨🏻‍💻 My stack and tools
 
-<img src="images/javascript.png" width="80"> <img src="images/typescript.svg" width="80"> <img src="images/react.png" width="80"> <img src="images/html.png" width="80"> <img src="images/css.png" width="80"> <img src="images/gsb.png" width="80"> <img src="images/webpack.png" width="90"><img src="images/figma-light.png" width="70"> <img src="images/vsc.png" width="70"> 
+<img src="images/javascript.png" width="80"> <img src="images/typescript.svg" width="80"> <img src="images/react.png" width="80"> <img src="images/gatsby.png" width="80"> <img src="images/html.png" width="80"> <img src="images/css.png" width="80"> <img src="images/webpack.png" width="90"><img src="images/figma-light.png" width="70"> <img src="images/vsc.png" width="70"> 
 
 ### 👨🏻‍💻 Things I am learning
 
