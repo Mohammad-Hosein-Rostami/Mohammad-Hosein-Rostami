@@ -4,9 +4,10 @@
 - 🎓 I've hands-on experience building React applications
 - 💼 I'm opened for new job opportunities and consider any with pleasure
   
-**📫 Reach me out!**
+**:mailbox:  Reach me out!**
 
-  [![LinkedIn Badge](https://img.shields.io/badge/in-elen__vlass-blue)](https://www.linkedin.com/in/elena-vlass/)
+[![Linkedin Badge](https://img.shields.io/badge/-Olena_Vlasenko-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elena-vlass/) 
+[![Mail Badge](https://img.shields.io/badge/-Olena_Vlasenko-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:olefelena@gmail.com)
 
 ### 👨🏻‍💻 My stack and tools
 
