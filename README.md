@@ -13,6 +13,8 @@
 
 ##
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ElenVlass&show_icons=true&count_private=true&theme=dark" width="450"></a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=ElenVlass&show_icons=true&count_private=true&hide=issues&rank_icon=github&theme=radical" width="47%" alt="Olena Vlass stats" align="left">
+
+
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ElenVlass&layout=compact&hide_progress=true&langs_count=8&theme=radical" width="47%" align="right"/>
+<!-- <img src="https:/github-readme-stats.vercel.app/api/top-langs/?username=ElenVlass" width="47%" alt="Olena Vlass top langs" align="right"> -->
