@@ -1,3 +1,6 @@
+
+<img align="right" width="15%" src="https://github.com/ElenVlass/ElenVlass/assets/72293912/ad1a199a-ccec-4f7e-9139-149ba2fa6ba6"/>
+
 **Hello world, my name is Olena 👋**
 
 - 🌱 I’m currently learning something new and enjoy what I do
