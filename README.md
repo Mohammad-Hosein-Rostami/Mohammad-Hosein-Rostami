@@ -21,7 +21,7 @@
 
 ### ⭐️ My stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ElenVlass&show_icons=true&count_private=true&hide=stars&rank_icon=github&theme=radical" width="47%" alt="Olena Vlass stats" align="left" height="190">
+<img src="https://github-readme-stats.vercel.app/api?username=ElenVlass&show_icons=true&count_private=true&hide=stars&rank_icon=github&theme=radical&bg_color=0,c31432,240b36" width="47%" alt="Olena Vlass stats" align="left" height="190">
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ElenVlass&layout=compact&hide_progress=true&langs_count=6&theme=radical" width="47%" alt="Olena Vlass top langs" align="right" height="190"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ElenVlass&layout=compact&hide_progress=true&langs_count=6&theme=radical&bg_color=0,c31432,240b36" width="47%" alt="Olena Vlass top langs" align="right" height="190"/>
