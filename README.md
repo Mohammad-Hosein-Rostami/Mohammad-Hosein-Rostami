@@ -1,7 +1,7 @@
 
 <img align="right" width="15%" src="https://github.com/ElenVlass/ElenVlass/assets/72293912/ad1a199a-ccec-4f7e-9139-149ba2fa6ba6"/>
 
-**Hello world, my name is Olena 👋**
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=👋&desc=Hello_world,_my_name_is_Olena&f&fill=linear-gradient%28to%20right%2C%20%231f1c2c%2C%20%23928dab%29)
 
 - 🌱 I’m currently learning something new and enjoy what I do
 - 🎓 I've hands-on experience building React applications
