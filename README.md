@@ -10,11 +10,11 @@
 
 ### 👨🏻‍💻 My stack and tools
 
-<img src="images/javascript.png" width="80"> <img src="images/typescript.svg" width="80"> <img src="images/react.png" width="80"> <img src="images/gatsby.png" width="80"> <img src="images/html.png" width="80"> <img src="images/css.png" width="80"> <img src="images/webpack.png" width="90"><img src="images/figma-light.png" width="70"> <img src="images/vsc.png" width="70"> <img src="images/node-js.svg" width="80">
+<img src="images/javascript.png" width="80"> <img src="images/typescript.svg" width="80"> <img src="images/react.png" width="80">  <img src="images/node-js.svg" width="80"> <img src="images/gatsby.png" width="80"> <img src="images/html.png" width="80"> <img src="images/css.png" width="80"> <img src="images/webpack.png" width="90"><img src="images/figma-light.png" width="70"> <img src="https://github.com/ElenVlass/ElenVlass/assets/72293912/abb23d9e-41d0-46ec-bba3-4a6c887f09ae" width="70">
 
 ### ⭐️ My stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=ElenVlass&show_icons=true&count_private=true&hide=stars&rank_icon=github&theme=radical" width="47%" alt="Olena Vlass stats" align="left" height="190">
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ElenVlass&layout=compact&hide_progress=true&langs_count=8&theme=radical" width="47%" alt="Olena Vlass top langs" align="right" height="190"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ElenVlass&layout=compact&hide_progress=true&langs_count=6&theme=radical" width="47%" alt="Olena Vlass top langs" align="right" height="190"/>
