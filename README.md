@@ -16,7 +16,7 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%28to%20right%2C%20%231f1c2c%2C%20%23928dab%29&logo=typeScript&svgfill=2d79c7">&nbsp;&nbsp;&nbsp;<img  src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%28to%20right%2C%20%231f1c2c%2C%20%23928dab%29&logo=javaScript&svgfill=f6df1c">&nbsp;&nbsp;&nbsp;
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%28to%20right%2C%20%231f1c2c%2C%20%23928dab%29&logo=react&animation=spin&svgfill=15d8fe">&nbsp;&nbsp;&nbsp;
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%28to%20right%2C%20%231f1c2c%2C%20%23928dab%29&logo=node.js&svgfill=659b60">&nbsp;&nbsp;&nbsp;<img  src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%28to%20right%2C%20%231f1c2c%2C%20%23928dab%29&logo=nestjs&svgfill=d9214b">&nbsp;&nbsp;&nbsp;
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%28to%20right%2C%20%231f1c2c%2C%20%23928dab%29&logo=python&svgfill=3e75a4">&nbsp;&nbsp;&nbsp;<img  src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%28to%20right%2C%20%231f1c2c%2C%20%23928dab%29&logo=django&svgfill=092e1f">&nbsp;&nbsp;&nbsp;
+<!-- <img  src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%28to%20right%2C%20%231f1c2c%2C%20%23928dab%29&logo=python&svgfill=3e75a4">&nbsp;&nbsp;&nbsp;<img  src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%28to%20right%2C%20%231f1c2c%2C%20%23928dab%29&logo=django&svgfill=092e1f">&nbsp;&nbsp;&nbsp; -->
 
 
 ### ⭐️ My stats
