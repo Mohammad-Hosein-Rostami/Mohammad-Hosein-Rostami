@@ -3,7 +3,7 @@
 
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=👋&desc=Hello_Im_Mohammad_Hosein_Rostami&f&fill=linear-gradient%28to%20right%2C%20%231f1c2c%2C%20%23928dab%29)
 
-- 🎓 I've hands-on experience building React applications
+- 🎓 I've hands-on experience building ReactJs & NestJs applications
 - 💼 I'm opened for new job opportunities and consider any with pleasure
   
 **:mailbox:  Reach me out!**
