@@ -9,7 +9,7 @@
 **:mailbox:  Reach me out!**
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mohammad_Hossein_Rostami-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-hosein-rostami/)&nbsp;&nbsp;&nbsp;
-[![Mail Badge](https://img.shields.io/badge/-Mohammad_Hossein_Rostami-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mohammad.hussein.rostami@gmail.com)&nbsp;&nbsp;&nbsp;
+[![Mail Badge](https://img.shields.io/badge/-Mohammad_Hossein_Rostami-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](https://mohammad.hussein.rostami@gmail.com)&nbsp;&nbsp;&nbsp;
 
 ### 👨🏻‍💻 My stack and tools
 
